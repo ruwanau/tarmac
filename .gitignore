@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+bin/
+obj/
+node_modules/
+out/
+.env
